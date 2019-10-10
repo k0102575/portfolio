@@ -2,6 +2,8 @@
 
 **- 업무경험 2019년 10월기준 (1년6개월)**
 
+**[개인블로그](https://k0102575.github.io/)**
+
 ### 1. 기술스택
 
 * Java / Spring / Spring-Boot / Gradle
@@ -18,11 +20,50 @@
 
 ### 2. 경력사항
 
-**업로드 예정**
+- **학원 이수 프로젝트**
+   * [ARMU](https://github.com/k0102575/ARMU)
+<br>
 
-### 3. 활동
+- **Triplet(웹 개발자) 1년 6개월 (2018-04 ~ ING)**
+   * **자사홈페이지 리뉴얼 (2018-04 ~ 2018-05)**
+      * [Todo](Todo)
+   <br>
+   * **비트코인 솔루션 관리자 페이지 개발 (2018-06 ~ 2018-08)**
+      * [Todo](Todo)
+   <br>
+   * **부동산 중개 사이트 개발 (2018-09 ~ 2018-04)**
+      * [Todo](Todo)
+   <br>
+   * **자사 IOT 솔루션 웹 개발 (2019-05 ~ ING)**
+      * [Todo](Todo)
 
-**업로드 예정**
+### 3. 프로젝트 및 스터디
+
+- **미니프로젝트 Lunch_Run (2019-07 ~ ING)**
+   * [Lunch_Run](https://github.com/jmt-map/Lunch_Run_Server)
+<br>
+
+- **프론트 엔드 스터디 (2019-10 ~ ING)**
+   * [Study](https://github.com/WANZARGEN/rare-idiots/issues)
+
+### 4. 활동
+   * 양재동 코드랩 주관 - 자바스크립트 ES6~ES8 코드랩 수강
+      * [Todo](Todo)
+   <br>
+   * 비트 교육센터 주관 - AWS를 활용한 클라우드 기반 웹 개발 수강
+      * [Todo](Todo)
+   <br>
+   * Festa 주관 - 만들면서 배우는 Flutter 코드랩 수강
+      * [Todo](Todo)
+   <br>
+   * Festa 주관 - 프런트 엔드 세미나 참여
+      * [Todo](Todo)
+   <br>
+   * 양재동 코드랩 주관 - SVG, 다양하게 활용하기 수강
+      * [Todo](Todo)
+   <br>
+   * 양재동 코드랩 주관 - FLUTTER 훑어보기 수강 예정
+      * [Todo](Todo)
 
 ### 5. 마인드
 ```
@@ -33,11 +74,11 @@
     피드백은 가차없이 주고받자.
 ```
 
-### 4. 요새 관심분야
+### 6. 요새 관심분야
 - 미니 프로젝트 BackEnd 개발 완료후 SPA 스터디 및 활용을 위해 프로젝트를 잠시 멈추고 Vue.js 스터디를 시작했습니다.
    Doit vue.js 책을 구매 스터디 하고도 보니 아직 바로 개발 보다는 vue.js 에 관하여 더 자세히 알아야겠다 생각하여
-   vue.js CookBook 이라는 책을 구매하고 스터디를 진행중입니다.
+   vue.js CookBook 이라는 책을 구매하고 스터디를 진행중입니다.<br>
    [https://github.com/k0102575/vuePractice](https://github.com/k0102575/vuePractice)
    <br>
-   
+
 - 최근 하이브리드 앱 분야에서 플러터의 장점을 듣게되고 체험해 보기 위해 코드랩 참석 및 미니 프로젝트 분야에 활용해 보려 하고있습니다.

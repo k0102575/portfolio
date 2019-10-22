@@ -22,20 +22,16 @@
 
 - **학원 이수 프로젝트**
    * [ARMU](https://github.com/k0102575/ARMU)
-<br>
 
 - **Triplet(웹 개발자) 1년 6개월 (2018-04 ~ ING)**
    * 자사홈페이지 리뉴얼 (2018-04 ~ 2018-05)
       * [Todo](Todo)
-   <br>
 
    * 비트코인 솔루션 관리자 페이지 개발 (2018-06 ~ 2018-08)
       * [Todo](Todo)
-   <br>
 
    * 부동산 중개 사이트 개발 (2018-09 ~ 2018-04)
       * [Todo](Todo)
-   <br>
 
    * 자사 IOT 솔루션 웹 개발 (2019-05 ~ ING)
       * [Todo](Todo)
@@ -52,23 +48,18 @@
 ### 4. 활동
    * 양재동 코드랩 주관 - 자바스크립트 ES6 ~ ES8 코드랩 수강
       * [자바스크립트 ES6 ~ ES8](https://k0102575.github.io/review/review-javascript-ES6)
-   <br>
 
    * 비트 교육센터 주관 - AWS를 활용한 클라우드 기반 웹 개발 수강
       * [Todo](Todo)
-   <br>
 
    * Festa 주관 - 만들면서 배우는 Flutter 코드랩 수강
       * [Todo](Todo)
-   <br>
 
    * Festa 주관 - 프런트 엔드 세미나 참여
       * [Todo](Todo)
-   <br>
 
    * 양재동 코드랩 주관 - SVG, 다양하게 활용하기 수강
       * [Todo](Todo)
-   <br>
 
 ### 5. 마인드
 ```

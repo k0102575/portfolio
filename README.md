@@ -44,11 +44,11 @@
 <br>
 
 - **프론트 엔드 스터디 (2019-10 ~ ING)**
-   * [Study](https://github.com/WANZARGEN/rare-idiots/issues)
+   * [Study](https://github.com/WANZARGEN/rare-idiots/wiki/Session-Plan)
 
 ### 4. 활동
-   * 양재동 코드랩 주관 - 자바스크립트 ES6~ES8 코드랩 수강
-      * [Todo](Todo)
+   * 양재동 코드랩 주관 - 자바스크립트 ES6 ~ ES8 코드랩 수강
+      * [자바스크립트 ES6 ~ ES8](https://k0102575.github.io/review/review-javascript-ES6)
    <br>
    * 비트 교육센터 주관 - AWS를 활용한 클라우드 기반 웹 개발 수강
       * [Todo](Todo)
@@ -62,12 +62,10 @@
    * 양재동 코드랩 주관 - SVG, 다양하게 활용하기 수강
       * [Todo](Todo)
    <br>
-   * 양재동 코드랩 주관 - FLUTTER 훑어보기 수강 예정
-      * [Todo](Todo)
 
 ### 5. 마인드
 ```
-    좌우명 - 할수 있다. 나는 할수있다. 포기는 생각도 하지마라.
+    좌우명 - 할수 있다. 나는 할수있다. 포기는 생각도 하지말자
 
     직장인 보다는 개발자가 되자.
 
@@ -75,10 +73,10 @@
 ```
 
 ### 6. 요새 관심분야
-- 미니 프로젝트 BackEnd 개발 완료후 SPA 스터디 및 활용을 위해 프로젝트를 잠시 멈추고 Vue.js 스터디를 시작했습니다.
+- 미니 프로젝트 BackEnd 개발 완료후 SPA 스터디 및 활용을 위해 프로젝트를 잠시 멈추고 Vue.js 스터디를 시작했습니다.<br>
    Doit vue.js 책을 구매 스터디 하고도 보니 아직 바로 개발 보다는 vue.js 에 관하여 더 자세히 알아야겠다 생각하여
    vue.js CookBook 이라는 책을 구매하고 스터디를 진행중입니다.<br>
    [https://github.com/k0102575/vuePractice](https://github.com/k0102575/vuePractice)
    <br>
 
-- 최근 하이브리드 앱 분야에서 플러터의 장점을 듣게되고 체험해 보기 위해 코드랩 참석 및 미니 프로젝트 분야에 활용해 보려 하고있습니다.
+- Docker, Jenkins 등 해보지 못한 개발 및 배포 환경 구축에 있어서 스터디를 하고 미니프로젝트에 적용해 보고 있습니다.

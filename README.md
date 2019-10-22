@@ -72,9 +72,10 @@
 
 ### 6. 요새 관심분야
 - 미니 프로젝트 BackEnd 개발 완료후 SPA 스터디 및 활용을 위해 프로젝트를 잠시 멈추고 Vue.js 스터디를 시작했습니다.<br>
-   Doit vue.js 책을 구매 스터디 하고도 보니 아직 바로 개발 보다는 vue.js 에 관하여 더 자세히 알아야겠다 생각하여
+   Doit vue.js 책을 구매 스터디 하고도 보니 아직 바로 개발 보다는 vue.js 에 관하여 더 자세히 알아야겠다 생각하여<br>
    vue.js CookBook 이라는 책을 구매하고 스터디를 진행중입니다.<br>
    [https://github.com/k0102575/vuePractice](https://github.com/k0102575/vuePractice)
    <br>
 
-- Docker, Jenkins 등 해보지 못한 개발 및 배포 환경 구축에 있어서 스터디를 하고 미니프로젝트에 적용해 보고 있습니다.
+- Docker, Jenkins, Swagger 등 해보지 못한 개발 및 배포 환경 구축에 있어서 스터디를 하고 미니프로젝트에 적용해 보고 있습니다.<br>
+   [Lunch_Run](https://github.com/jmt-map/Lunch_Run_Server)

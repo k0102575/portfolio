@@ -27,18 +27,27 @@
    * 자사홈페이지 리뉴얼 (2018-04 ~ 2018-05)
       * [자사홈페이지 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/triplllet.md)
 
-   * 비트코인 솔루션 관리자 사이트 개발 (2018-06 ~ 2018-08)
-      * [비트코인 솔루션 관리자 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/nupay.md)
+   * 비트코인 결제 서비스 웹 사이트 개발 (2018-06 ~ 2018-08)
+      * [비트코인 결제 서비스 웹 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/nupay.md)
 
-   * 부동산 중개 사이트 개발 (2018-09 ~ ING)
-      * [Todo](Todo)
+   * 부동산 자산관리 회사 내부 관리 사이트 개발 (2018-09 ~ 2019-01)
+      * [부동산 자산관리 회사 내부 관리 시스템 개발](https://github.com/k0102575/portfolio/blob/master/md/starmate.md)
 
-   * 자사 IOT 솔루션 웹 개발 (2019-05 ~ ING)
-      * [Todo](Todo)
+   * 자사 IOT 솔루션 웹 개발 1차 (2019-02 ~ 2019-03)
+      * [부동산 자산관리 회사 내부 관리 시스템 개발](https://github.com/k0102575/portfolio/blob/master/md/cotton.md)
 
-### 3. 프로젝트 및 스터디
+   * 부동산 자산관리 회사 공인중개사용 사이트 개발 (2019-04 ~ 2019-07)
+      * [부동산 자산관리 회사 공인중개사용 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/mylead.md)
 
-- **미니프로젝트 Lunch_Run (2019-07 ~ ING)**
+   * 부동산 중개 사이트 리뉴얼 (2019-07 ~ 2019-08)
+      * [부동산 중개 사이트 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/republiq.md)
+
+   * 자사 IOT 솔루션 웹 개발 (2019-09 ~ 2019-10)
+      * [자사 IOT 솔루션 웹 개발](https://github.com/k0102575/portfolio/blob/master/md/ozo.md)
+
+### 3. 토이프로젝트 및 스터디
+
+- **토이프로젝트 Lunch_Run (2019-07 ~ ING)**
    * [Lunch_Run](https://github.com/jmt-map/Lunch_Run_Server)
 <br>
 

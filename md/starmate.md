@@ -1,40 +1,42 @@
-## 자사 홈페이지 개발
+## 부동산 자산관리 회사 내부 관리 사이트 개발
 
-### 프로젝트 소개 
-
-- 자사 홈페이지 개발 리뉴얼
-
-### 이미지
-<img src="../img/triplllet1.png" width="900">
-<img src="../img/triplllet2.png" width="900">
-<img src="../img/triplllet3.png" width="900">
-<img src="../img/triplllet4.png" width="900">
-<img src="../img/triplllet5.png" width="400"><img src="../img/triplllet6.png" width="400">
-
-### URL
-- [Triplet](triplllet.com)
+### 프로젝트 소개
+- 사무실 이사를 중개해주는 회사의 내부 관리용 사이트 개발 및 데이터 마이그레이션 작업 SI 프로젝트
 
 ### 개발 기간
-- 2018-04 ~ 2018-05
+##### 전체 기간 2018-06 ~ 2019-01
+- 사이트 개발 2018-06 ~ 2018-10
+- 데이터 마이그레이션 작업 2018-11
+- 유지보수 및 추가 개발 2018-12 ~ 2019-01
 
 ### 개발 인원
-- 2명
+- 5명
 
 ### 담당 업무
-- 사이트 개발 및 유지보수
+- 사이트 개발
+    ```
+      
+    ```
+
+<!-- - 사무실 이사를 중개해주는 회사의 내부 관리용 사이트 를 개발 하였습니다.<br>
+    1차 개발은 관리자 사이트로 회사 직원계정에 관한 관리 사이트를 개발하였고<br>
+    2차 개발은 내부 직원용 사무실 이사 중개에 관련된 기능들을 개발하였습니다. (ex: 사무실관리, 계약관리, 활동관리, 부동산 소개문 등등..)<br>
+    2차 개발이 완료 된후 유지보수 업무와 문서화에 대한 추가 개발건등을 개발하였습니다.<br>
+    세모기, 세모빌 이라고 불리우는 우리나라의 모든 기업 및 모든 빌딩에 관한 정보를 공공기관 DB 에서 업데이트 하는 기능을 다루는 Spring Batch 를 유지보수 하였습니다.<br>
+    기존 자산관리 회사가 사용하던 사이트의 DB 정보를 이번에 개발된 DB에 마이그레이션 작업을 하기 위해 Python을 스터디 하였고 마이그레이션 작업을 담당하였습니다. -->
 
 ### 사용 기술
 
-- Cross Browsing, 반응형 웹
+- Spring Boot, Spring Security, apache Poi, Spring Scheduler, Spring Batch
 <br>
 
-- codeIgniter, 다국어 설정(한국어, 영어)
+- Jpa, Mybatis
 <br>
 
-- jQuery, jQuery UI, scroll-magic, Velocity.js, GreenSock Js, Bootstrap, D3.js
+- jQuery, Bootstrap, Echart, Kako Map API, Socket I.O
 <br>
 
-- HTML5, CSS3, CSS Animation, Youtube, Video Tag, SVG, Canvas
+- Python
 <br>
 
-- SourceTree, Invision
+- SourceTree

@@ -27,10 +27,10 @@
    * 자사홈페이지 리뉴얼 (2018-04 ~ 2018-05)
       * [자사홈페이지 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/triplllet.md)
 
-   * 비트코인 솔루션 관리자 페이지 개발 (2018-06 ~ 2018-08)
-      * [Todo](Todo)
+   * 비트코인 솔루션 관리자 사이트 개발 (2018-06 ~ 2018-08)
+      * [비트코인 솔루션 관리자 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/nupay.md)
 
-   * 부동산 중개 사이트 개발 (2018-09 ~ 2018-04)
+   * 부동산 중개 사이트 개발 (2018-09 ~ ING)
       * [Todo](Todo)
 
    * 자사 IOT 솔루션 웹 개발 (2019-05 ~ ING)

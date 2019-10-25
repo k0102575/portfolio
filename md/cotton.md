@@ -1,42 +1,38 @@
-## 자사 IOT 솔루션 웹 개발
+## 자사 IOT 솔루션 웹 개발 1차
 
 ### 프로젝트 소개 
 
-- 자사 IOT 솔루션 오조 프로젝트 웹 개발
+- 자사 IOT 솔루션 웹 개발 1차
 
-### 이미지
-<img src="../img/triplllet1.png" width="900">
-<img src="../img/triplllet2.png" width="900">
-<img src="../img/triplllet3.png" width="900">
-<img src="../img/triplllet4.png" width="900">
-<img src="../img/triplllet5.png" width="400"><img src="../img/triplllet6.png" width="400">
+- 회사 전시회 일정에 맞춰 주요 기능(모니터링, 이벤트 페이지, 메인페이지)만 개발
 
-### URL
-- [Triplet](triplllet.com)
+- IOT 하드웨어 기기 추가 개발 등으로 인하여 프로젝트 일부만 개발
 
 ### 개발 기간
-- 2018-04 ~ 2018-05
+- 2019-04 ~ 2019-05
 
 ### 개발 인원
-- 2명
+- 3명
 
 ### 담당 업무
-- 홈페이지 개발에 필요한 애니메이션 및 UI 라이브러리 서칭 및 적용
-
-- 다국어 설정 및 퍼블리싱 업무
+    ```
+    웹서버 프로젝트 초기 설정 구축
+    재난 감지에 대한 이벤트 페이지 개발
+    API 서버 기능 담당(푸시 전송, 웹서버 - API 서버 간의 통신 등)
+    Kafka 통신으로 센서 데이터 관련 기능 담당
+    ```
 
 ### 사용 기술
-
-- Cross Browsing, 반응형 웹
+- Spring Boot, Node.js, Express.js
 <br>
 
-- codeIgniter, 다국어 설정(한국어, 영어)
+- Kafka, FireBase
 <br>
 
-- jQuery, jQuery UI, scroll-magic, Velocity.js, GreenSock Js, Bootstrap, D3.js
+- Jpa, Mybatis, Mongoose
 <br>
 
-- HTML5, CSS3, CSS Animation, Youtube, Video Tag, SVG, Canvas
+- jQuery, d3.js, Socket I.O
 <br>
 
-- SourceTree, Invision
+- SourceTree

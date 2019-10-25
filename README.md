@@ -34,15 +34,15 @@
       * [부동산 자산관리 회사 내부 관리 시스템 개발](https://github.com/k0102575/portfolio/blob/master/md/starmate.md)
 
    * 자사 IOT 솔루션 웹 개발 1차 (2019-02 ~ 2019-03)
-      * [부동산 자산관리 회사 내부 관리 시스템 개발](https://github.com/k0102575/portfolio/blob/master/md/cotton.md)
+      * [자사 IOT 솔루션 웹 개발 1차](https://github.com/k0102575/portfolio/blob/master/md/cotton.md)
 
-   * 부동산 자산관리 회사 공인중개사용 사이트 개발 (2019-04 ~ 2019-07)
+   * 부동산 자산관리 공인중개사용 사이트 개발 (2019-04 ~ 2019-07)
       * [부동산 자산관리 회사 공인중개사용 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/mylead.md)
 
    * 부동산 중개 사이트 리뉴얼 (2019-07 ~ 2019-08)
       * [부동산 중개 사이트 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/republiq.md)
 
-   * 자사 IOT 솔루션 웹 개발 (2019-09 ~ 2019-10)
+   * 자사 IOT 솔루션 웹 개발 2차 (2019-09 ~ 2019-10)
       * [자사 IOT 솔루션 웹 개발](https://github.com/k0102575/portfolio/blob/master/md/ozo.md)
 
 ### 3. 토이프로젝트 및 스터디
@@ -72,11 +72,11 @@
 
 ### 5. 마인드
 ```
-    좌우명 - 할수 있다. 나는 할수있다. 포기는 생각도 하지말자
+   좌우명 - 할수 있다. 나는 할수있다. 포기는 생각도 하지말자
 
-    직장인 보다는 개발자가 되자.
+   직장인 보다는 개발자가 되자.
 
-    피드백은 가차없이 주고받자.
+   피드백은 가차없이 주고받자.
 ```
 
 ### 6. 요새 관심분야

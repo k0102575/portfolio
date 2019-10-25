@@ -47,11 +47,11 @@
 
 ### 3. 토이프로젝트 및 스터디
 
-- **토이프로젝트 Lunch_Run (2019-07 ~ ING)**
+- **토이프로젝트 Lunch_Run (2019-07 ~)**
    * [Lunch_Run](https://github.com/jmt-map/Lunch_Run_Server)
 <br>
 
-- **프론트 엔드 스터디 (2019-10 ~ ING)**
+- **프론트 엔드 스터디 (2019-10 ~)**
    * [Study](https://github.com/WANZARGEN/rare-idiots/wiki/Session-Plan)
 
 ### 4. 활동

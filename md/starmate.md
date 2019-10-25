@@ -40,7 +40,7 @@
 - Jpa, Mybatis
 <br>
 
-- jQuery, Bootstrap, Echart, Kako Map API, Socket I.O, GooGle Calendar Api
+- jQuery, Bootstrap, Echart, Kako Map API, Socket I.O, Google Calendar Api
 <br>
 
 - Python

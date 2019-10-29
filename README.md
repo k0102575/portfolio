@@ -58,14 +58,14 @@
    * 양재동 코드랩 주관 - 자바스크립트 ES6 ~ ES8 코드랩 수강
       * [자바스크립트 ES6 ~ ES8](https://github.com/k0102575/portfolio/blob/master/md/activity/js.md)
 
-   * 비트 교육센터 주관 - AWS를 활용한 클라우드 기반 웹 개발 수강
-      * [AWS를 활용한 클라우드 기반 웹 개발 수강](https://github.com/k0102575/portfolio/blob/master/md/activity/aws.md)
+   * Festa 주관 - 프런트 엔드 세미나 참여
+      * [프런트 엔드 세미나](https://github.com/k0102575/portfolio/blob/master/md/activity/frontend.md)
 
    * Festa 주관 - 만들면서 배우는 Flutter 코드랩 수강
       * [Flutter 코드랩](https://github.com/k0102575/portfolio/blob/master/md/activity/flutter.md)
 
-   * Festa 주관 - 프런트 엔드 세미나 참여
-      * [프런트 엔드 세미나](https://github.com/k0102575/portfolio/blob/master/md/activity/frontend.md)
+   * 비트 교육센터 주관 - AWS를 활용한 클라우드 기반 웹 개발 수강
+      * [AWS를 활용한 클라우드 기반 웹 개발 수강](https://github.com/k0102575/portfolio/blob/master/md/activity/aws.md)
 
    * 양재동 코드랩 주관 - SVG, 다양하게 활용하기 수강
       * [SVG 다양하게 활용하기](https://github.com/k0102575/portfolio/blob/master/md/activity/svg.md)

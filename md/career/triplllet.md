@@ -5,14 +5,14 @@
 - 자사 홈페이지 개발 리뉴얼
 
 ### 이미지
-<img src="../img/triplllet1.png" width="900">
-<img src="../img/triplllet2.png" width="900">
-<img src="../img/triplllet3.png" width="900">
-<img src="../img/triplllet4.png" width="900">
-<img src="../img/triplllet5.png" width="400"><img src="../img/triplllet6.png" width="400">
+<img src="../img/career/triplllet1.png" width="900">
+<img src="../img/career/triplllet2.png" width="900">
+<img src="../img/career/triplllet3.png" width="900">
+<img src="../img/career/triplllet4.png" width="900">
+<img src="../img/career/triplllet5.png" width="400"><img src="../img/career/triplllet6.png" width="400">
 
 ### URL
-- [Triplet](triplllet.com)
+- [Triplet](http://triplllet.com)
 
 ### 개발 기간
 - 2018-04 ~ 2018-05

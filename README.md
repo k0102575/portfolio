@@ -16,7 +16,7 @@
 
 * Jquery / Bootstrap / Css Animation
 
-* 공부중인것 - Docker, vue.js, Sass, web pack
+* 공부중인것 - Docker, jenkins, vue.js, Sass, web pack
 
 ### 2. 경력사항
 
@@ -25,25 +25,25 @@
 
 - **Triplet(웹 개발자) 1년 6개월 (2018-04 ~ ING)**
    * 자사홈페이지 리뉴얼 (2018-04 ~ 2018-05)
-      * [자사홈페이지 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/triplllet.md)
+      * [자사홈페이지 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/career/triplllet.md)
 
    * 비트코인 결제 서비스 웹 사이트 개발 (2018-06 ~ 2018-08)
-      * [비트코인 결제 서비스 웹 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/nupay.md)
+      * [비트코인 결제 서비스 웹 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/career/nupay.md)
 
    * 부동산 자산관리 회사 내부 관리 사이트 개발 (2018-09 ~ 2019-01)
-      * [부동산 자산관리 회사 내부 관리 시스템 개발](https://github.com/k0102575/portfolio/blob/master/md/starmate.md)
+      * [부동산 자산관리 회사 내부 관리 시스템 개발](https://github.com/k0102575/portfolio/blob/master/md/career/starmate.md)
 
    * 자사 IOT 솔루션 웹 개발 1차 (2019-02 ~ 2019-03)
-      * [자사 IOT 솔루션 웹 개발 1차](https://github.com/k0102575/portfolio/blob/master/md/cotton.md)
+      * [자사 IOT 솔루션 웹 개발 1차](https://github.com/k0102575/portfolio/blob/master/md/career/cotton.md)
 
    * 부동산 자산관리 공인중개사용 사이트 개발 (2019-04 ~ 2019-07)
-      * [부동산 자산관리 회사 공인중개사용 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/mylead.md)
+      * [부동산 자산관리 회사 공인중개사용 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/career/mylead.md)
 
    * 부동산 중개 사이트 리뉴얼 (2019-07 ~ 2019-08)
-      * [부동산 중개 사이트 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/republiq.md)
+      * [부동산 중개 사이트 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/career/republiq.md)
 
    * 자사 IOT 솔루션 웹 개발 2차 (2019-09 ~ 2019-10)
-      * [자사 IOT 솔루션 웹 개발](https://github.com/k0102575/portfolio/blob/master/md/ozo.md)
+      * [자사 IOT 솔루션 웹 개발](https://github.com/k0102575/portfolio/blob/master/md/career/ozo.md)
 
 ### 3. 토이프로젝트 및 스터디
 
@@ -56,19 +56,19 @@
 
 ### 4. 활동
    * 양재동 코드랩 주관 - 자바스크립트 ES6 ~ ES8 코드랩 수강
-      * [자바스크립트 ES6 ~ ES8](https://k0102575.github.io/review/review-javascript-ES6)
+      * [자바스크립트 ES6 ~ ES8](https://github.com/k0102575/portfolio/blob/master/md/activity/js.md)
 
    * 비트 교육센터 주관 - AWS를 활용한 클라우드 기반 웹 개발 수강
-      * [Todo](Todo)
+      * [AWS를 활용한 클라우드 기반 웹 개발 수강](https://github.com/k0102575/portfolio/blob/master/md/activity/aws.md)
 
    * Festa 주관 - 만들면서 배우는 Flutter 코드랩 수강
-      * [Todo](Todo)
+      * [Flutter 코드랩](https://github.com/k0102575/portfolio/blob/master/md/activity/flutter.md)
 
    * Festa 주관 - 프런트 엔드 세미나 참여
-      * [Todo](Todo)
+      * [프런트 엔드 세미나](https://github.com/k0102575/portfolio/blob/master/md/activity/frontend.md)
 
    * 양재동 코드랩 주관 - SVG, 다양하게 활용하기 수강
-      * [Todo](Todo)
+      * [SVG 다양하게 활용하기](https://github.com/k0102575/portfolio/blob/master/md/activity/svg.md)
 
 ### 5. 마인드
 ```
@@ -86,5 +86,5 @@
    [https://github.com/k0102575/vuePractice](https://github.com/k0102575/vuePractice)
    <br>
 
-- Docker, Jenkins, Swagger 등 해보지 못한 개발 및 배포 환경 구축에 있어서 스터디를 하고 미니프로젝트에 적용해 보고 있습니다.<br>
+- Docker, Jenkins, Swagger 등 해보지 못한 개발 및 배포 환경 구축에 있어서 스터디를 하고 미니프로젝트에 적용하고 스터디 중입니다.<br>
    [Lunch_Run](https://github.com/jmt-map/Lunch_Run_Server)

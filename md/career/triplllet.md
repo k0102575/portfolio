@@ -5,11 +5,11 @@
 - 자사 홈페이지 개발 리뉴얼
 
 ### 이미지
-<img src="../img/career/triplllet1.png" width="900">
-<img src="../img/career/triplllet2.png" width="900">
-<img src="../img/career/triplllet3.png" width="900">
-<img src="../img/career/triplllet4.png" width="900">
-<img src="../img/career/triplllet5.png" width="400"><img src="../img/career/triplllet6.png" width="400">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/career/triplllet1.png" width="900">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/career/triplllet2.png" width="900">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/career/triplllet3.png" width="900">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/career/triplllet4.png" width="900">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/career/triplllet5.png" width="400"><img src="https://github.com/k0102575/portfolio/blob/master/img/career/triplllet6.png" width="400">
 
 ### URL
 - [Triplet](http://triplllet.com)

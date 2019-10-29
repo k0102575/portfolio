@@ -4,8 +4,8 @@
 - 양재동 코드랩
 
 ### 이미지
-<img src="./img/activity/seminar-js1.png" width="900">
-<img src="./img/activity/seminar-js1.png" width="900">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/activity/seminar-js1.png" width="900">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/activity/seminar-js2.png" width="900">
 
 ### URL
 - [코드랩 설명 페이지](https://www.codelabs.kr/codelabs/detail?no=16)

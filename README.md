@@ -52,7 +52,7 @@
 <br>
 
 - **프론트 엔드 스터디 (2019-10 ~)**
-   * [Study](https://github.com/WANZARGEN/rare-idiots/wiki/Session-Plan)
+   * [Study](https://github.com/WANZARGEN/rare-idiots/issues?utf8=%E2%9C%93&q=)
 
 ### 4. 활동
    * 양재동 코드랩 주관 - 자바스크립트 ES6 ~ ES8 코드랩 수강

@@ -8,7 +8,7 @@
 
 * [stackshare.io](https://stackshare.io/k0102575/theo)
 
-<img src="https://github.com/k0102575/portfolio/blob/master/img/career/stack.png" width="900">
+<img src="https://github.com/k0102575/portfolio/blob/master/img/career/stack.png" width="500">
 
 ### 2. 경력사항
 

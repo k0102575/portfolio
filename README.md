@@ -6,17 +6,9 @@
 
 ### 1. 기술스택
 
-* Java / Spring / Spring-Boot / Gradle
+* [stackshare.io](https://stackshare.io/k0102575/theo)
 
-* Html / Css / Javascript
-
-* Node.js / Express.js / npm
-
-* Mysql / Mybatis / JPA / Mongo DB / Mongoose
-
-* Jquery / Bootstrap / Css Animation
-
-* 공부중인것 - Docker, jenkins, vue.js, Sass, web pack
+<img src="https://github.com/k0102575/portfolio/blob/master/img/career/stack.png" width="900">
 
 ### 2. 경력사항
 

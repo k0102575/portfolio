@@ -17,16 +17,16 @@
    * 자사홈페이지 리뉴얼 (2018-04 ~ 2018-05)
       * [자사홈페이지 리뉴얼](https://github.com/k0102575/portfolio/blob/master/md/career/triplllet.md)
 
-   * 비트코인 결제 서비스 웹 사이트 개발 (2018-06 ~ 2018-08)
+   * 비트코인 결제 서비스 웹 사이트 개발 (2018-06 ~ 2018-07)
       * [비트코인 결제 서비스 웹 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/career/nupay.md)
 
-   * 부동산 자산관리 회사 내부 관리 사이트 개발 (2018-09 ~ 2019-01)
+   * 부동산 자산관리 회사 내부 관리 사이트 개발 (2018-08 ~ 2019-01)
       * [부동산 자산관리 회사 내부 관리 시스템 개발](https://github.com/k0102575/portfolio/blob/master/md/career/starmate.md)
 
    * 자사 IOT 솔루션 웹 개발 1차 (2019-02 ~ 2019-03)
       * [자사 IOT 솔루션 웹 개발 1차](https://github.com/k0102575/portfolio/blob/master/md/career/cotton.md)
 
-   * 부동산 자산관리 공인중개사용 사이트 개발 (2019-04 ~ 2019-07)
+   * 부동산 자산관리 공인중개사용 사이트 개발 (2019-04 ~ 2019-06)
       * [부동산 자산관리 회사 공인중개사용 사이트 개발](https://github.com/k0102575/portfolio/blob/master/md/career/mylead.md)
 
    * 부동산 중개 사이트 리뉴얼 (2019-07 ~ 2019-08)

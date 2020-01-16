@@ -45,6 +45,7 @@
     Gradle
     Bitbucket
     ```
+    <br>
 
 - 부동산 자산관리 회사 ERP 시스템 개발 **(2018-08 ~ 2019-01)**
     <br>
@@ -78,6 +79,7 @@
     Python
     Bitbucket, Zeplin, redmine
     ```
+    <br>
 
 - 화재 감지 IOT 솔루션 웹 개발 **(2019-02 ~ 2019-03)**
     <br>
@@ -105,6 +107,7 @@
     Gradle, Npm
     Bitbucket, Zeplin
     ```
+    <br>
 
 - 부동산 자산관리 회사 ERP 시스템 공인중개사 전용 추가 개발 **(2019-04 ~ 2019-06)**
     <br>
@@ -129,6 +132,7 @@
     Gradle
     Bitbucket, Zeplin
     ```
+    <br>
 
 - 부동산 중개 사이트 리뉴얼 및 관리자 사이트 개발 **(2019-07 ~ 2019-08)**
     <br>
@@ -151,6 +155,7 @@
     Gradle
     Bitbucket, Zeplin, Trello
     ```
+    <br>
 
 - 화재 감지 IOT 솔루션 웹 개발 **(2019-09 ~ 2019-10)**
     <br>

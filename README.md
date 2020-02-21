@@ -8,19 +8,22 @@
 
 ### 2. 경력사항
 
-- **학원 이수 프로젝트**
-   * [ARMU](https://github.com/k0102575/ARMU)
-
 - **Triplet(웹 개발자) 1년 8개월 (2018-03 ~ 2019-10)**
    * [Triplet 경력사항](https://github.com/k0102575/portfolio/blob/master/md/career/triplet.md)
+  
+- **코디더매니저(웹 개발자) (2020-02 ~ ING)**
+   * 코디더매니저 경력사항
 
-### 3. 토이프로젝트 및 스터디
+### 3. 프로젝트 및 스터디
 
-- **Lunch_Run (2019-07 ~)**
+- **학원 이수 프로젝트**
+   * [ARMU](https://github.com/k0102575/ARMU)
+ 
+- **Lunch_Run**
    * [Lunch_Run](https://github.com/k0102575/Lunch_Run_Server)
 <br>
 
-- **스터디 (2019-10 ~)**
+- **스터디 (2019-10 ~ ING)**
    * [Study](https://github.com/WANZARGEN/rare-idiots/issues?utf8=%E2%9C%93&q=)
 
 ### 4. 코드랩 및 세미나 참여 내역
